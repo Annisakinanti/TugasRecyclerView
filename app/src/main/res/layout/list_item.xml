@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Teksview ini dipakai untuk menampilkan teks afirmasi-->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_title"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:layout_marginBottom="20dp"
+    android:background="#FFEB3B"
+    android:fontFamily="monospace"
+    android:gravity="center" />
